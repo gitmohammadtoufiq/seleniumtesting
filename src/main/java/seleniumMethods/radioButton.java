@@ -1,0 +1,10 @@
+package seleniumMethods;
+
+public class radioButton {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
